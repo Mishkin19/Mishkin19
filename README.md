@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mishkin19
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning - Python
+- 🌱 I’m currently learning - Python, C#
 - 💞️ I’m looking to collaborate on..
 - 📫 How to reach me - Discord: Mishkin#7777
 
